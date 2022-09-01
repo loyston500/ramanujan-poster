@@ -12,7 +12,7 @@ logging.basicConfig(
 S = 2000  # size of the image
 W, H = S, int(2 ** 0.5 * S)
 
-NAME1 = "SRINIVAS"
+NAME1 = "SRINIVASA"
 NAME2 = "RAMANUJAN"
 QUOTE = "The man who knew Infinity"
 
